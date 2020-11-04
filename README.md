@@ -21,7 +21,7 @@ For a brief explanation and demonstration of this game, narrated by me, navigate
 
 --Future Steps--
 
-I would like to refine this game by cleaning up some of the object instantiations that occur within classes. I'd also
+I would like to refine my code by cleaning up some of the object instantiations that occur within classes. I'd also
 like to modify Solitaire_Game.java such that an unlimited amount of restarts are possible. I was having trouble with
 this before as I am not well-versed in action listeners, but I hope to change that. I aim to implement these changes
 in December of 2020.
